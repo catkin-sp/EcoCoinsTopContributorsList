@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoCoinsTopContributorsList", "EcoCoinsTopContributorsList\EcoCoinsTopContributorsList.csproj", "{0723583D-A929-4070-A96C-E8436E403220}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoCoins.Tests", "EcoCoins.Tests\EcoCoins.Tests\EcoCoins.Tests.csproj", "{F65247B0-7517-4DA0-873D-1E3AFB9D8CFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoCoins.Tests", "EcoCoins.Tests\EcoCoins.Tests.csproj", "{F230A3AD-E155-4915-A145-13B903F46D68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{0723583D-A929-4070-A96C-E8436E403220}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0723583D-A929-4070-A96C-E8436E403220}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0723583D-A929-4070-A96C-E8436E403220}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F65247B0-7517-4DA0-873D-1E3AFB9D8CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F65247B0-7517-4DA0-873D-1E3AFB9D8CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F65247B0-7517-4DA0-873D-1E3AFB9D8CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F65247B0-7517-4DA0-873D-1E3AFB9D8CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F230A3AD-E155-4915-A145-13B903F46D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F230A3AD-E155-4915-A145-13B903F46D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F230A3AD-E155-4915-A145-13B903F46D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F230A3AD-E155-4915-A145-13B903F46D68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

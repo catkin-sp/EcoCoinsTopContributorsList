@@ -24,7 +24,7 @@ namespace EcoCoins.Tests
         
         private TechTalk.SpecFlow.ITestRunner testRunner;
         
-#line 1 "ShowTopUsers.Feature.feature"
+#line 1 "ShowTopUsers.feature"
 #line hidden
         
         [NUnit.Framework.TestFixtureSetUpAttribute()]
